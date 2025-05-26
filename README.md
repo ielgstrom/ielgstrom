@@ -1,6 +1,6 @@
 ## Hi there, I'm Ignasi 👋
 
-<-- I am a 
+<!-- I am a 
 
 - 🔭 I’m currently working on .
 - 👯 I’m looking to collaborate on ...
