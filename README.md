@@ -25,6 +25,5 @@
 ---
 
 ### 📫 Connect with me  
-- 🌐 GitHub: [github.com/ielgstrom](https://github.com/ielgstrom)  
 - 💼 LinkedIn: [linkedin.com/in/ignasi-elgström](https://www.linkedin.com/in/ignasi-elgstr%C3%B6m/)  
 - 📧 Email: i.elgstrom@gmail.com  
